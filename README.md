@@ -1,5 +1,4 @@
 # Pizza Sales Analysis
-# pizza_sales_analysis
 ## Project Overview
 **Project Title**: pizza_sales_analysis
 ## Objectives
